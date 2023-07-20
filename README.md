@@ -8,7 +8,7 @@
 ### <font color="yellow"><a name="第一部分"></a>一：完全模型组智能车竞赛</font>
 #### [1.1 效果展示图](#1.1)
 
-![img1](https://github.com/ping-huyang/Introduce/blob/main/img/Icar_1.png)
+![img1](https://github.com/ping-huyang/Introduce/blob/main/img/Icar1.png)
 #### [1.2 成绩](#1.2)
 第十八届全国大学生智能车华南赛中获得一等奖
 #### [1.3 硬件资源、软件平台](#1.3)
