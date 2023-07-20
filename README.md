@@ -27,7 +27,7 @@
 ### <font color="yellow"><a name="第二部分"></a>二：多种人机交互方式的电子小制作</font>
 #### [2.1 效果展示图](#2.1)
 
-![img2](https://github.com/ping-huyang/Introduce/blob/main/img/PCB1.png)
+![img2](https://github.com/ping-huyang/Introduce/blob/main/img/PCB2.png)
 
 ![img3](https://github.com/ping-huyang/Introduce/blob/main/img/Home1.png)
 
