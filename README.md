@@ -57,3 +57,20 @@
 #### [3.4 部分资源位置](#3.3)
 - STM32开源代码（/Inverted/STM32_Code）
 - QT上位机软件（/Inverted/QT_Code）
+
+- ### <font color="yellow"><a name="第四部分"></a>四：细胞分割软件设计</font>
+#### [4.1 效果展示图](#3.1)
+![img4](https://github.com/ping-huyang/Introduce/blob/main/img/cell1.png)
+
+![img5](https://github.com/ping-huyang/Introduce/blob/main/img/cell2.png)
+
+![img6](https://github.com/ping-huyang/Introduce/blob/main/img/cell3.png)
+#### [4.2 开发介绍](#3.2)
+- 主要使用Pycharm，使用Python各种第三方框架
+#### [4.3 完成的内容](#3.3)
+- 基于PyQT5的前端界面开发
+- PushButton等控制的后端逻辑处理
+- Stardist细胞分割模型的移植和加载
+- opencv的图片预处理
+#### [4.4 资源位置](#3.3)
+- Python项目代码（/Cell/）
