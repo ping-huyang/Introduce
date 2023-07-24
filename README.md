@@ -42,7 +42,7 @@
 #### [2.1 效果展示图](#2.1)
 
 ![img2](./img/PCB2.png)
-<center>图2-1 自制PCB原理图</center>
+<center>图2-1 自制PCB设计图</center>
 
 ![img3](./img/Home1.png)
 <center>图2-2 实物展示图</center>
